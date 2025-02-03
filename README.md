@@ -6,7 +6,7 @@
 Welcome to my personal portfolio! This project showcases my skills, projects, and experience in cybersecurity, IT management, and software development.  
 
 ## **🔗 Live Demo**  
-👉 [Visit My Portfolio](https://github.com/RohanCyberOps) *(Replace with your live URL)*  
+👉 [Visit My Portfolio](https://github.com/RohanCyberOps)
 
 ## **📌 Features**  
 ✅ Modern, responsive UI 🌐  
