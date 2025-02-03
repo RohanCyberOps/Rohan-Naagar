@@ -23,7 +23,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 ## **📂 Setup & Installation**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/chrohangurjar1/portfolio.git
+   git clone https://github.com/RohanCyberOps/Rohan-Naagar.git
    cd portfolio
    ```
 2. Install dependencies (if using React/Next.js):  
